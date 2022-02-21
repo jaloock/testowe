@@ -1,3 +1,5 @@
 kiedy koniec
 
 Zmiana Mateusz
+
+Tutaj jest kod, który implementuje nowy feature!
